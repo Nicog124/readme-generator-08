@@ -1,8 +1,6 @@
 # readme-generator-08
 
 # README Generator
-  ![Badge for GitHub](https://img.shields.io/github/languages/top/jordanwhunter/readme-generator?style=flat&logo=appveyor) 
-  
   
   ## Description 
   
